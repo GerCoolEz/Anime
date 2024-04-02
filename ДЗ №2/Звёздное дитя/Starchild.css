@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/431460/QOMflWdT6RvqAyBg7EgQ.jpg   );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div {
+    margin: 20px auto;
+   border: ridge;
+    padding: 10px 100px;
+    text-align: center;
+    width: 50%;
+    font-family: serif;
+    color: white;
+    border-color: black;
+    border-radius: 20px ;
+}
+
+a {
+    width: 50%;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(87, 14, 75);
+    margin: 0;
+    padding: 0;
+    color: yellow   ;
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    
+    
+}
+
+img {
+    width: 100%;
+    border-color: rgb(0, 0, 0);
+    border-radius: 20px ;
+    border: ridge;
+}
+
+h1 {
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 70px;
+}

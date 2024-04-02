@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.h1 {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-size: 50px;
+   color: white;
+   text-align: center;
+   
+}
+
+ body {
+    background-image: url(https://wallpapers-clan.com/wp-content/uploads/2023/12/nezuko-glowing-eyes-black-desktop-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     
+ }
+
+div > img {
+   width: 100%;
+}
+
+
+
+
+
+div {
+   border-radius: 100px;
+   padding: 50px 50px 50px 50px;
+   border: solid;
+   text-align: center;
+   width: 20%;
+   margin: 125px;
+   color: white;
+   font-size: 15px;
+   display: inline-block;
+   
+   
+}  
+
+
+
+   
+
+
+
+a {
+    color: white;
+    text-decoration-line: initial   ;
+    color: yellow;
+
+}
+
+
+ .img1 {
+    
+    height: 400px;
+
+ }
